@@ -37,11 +37,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-    `git clone https://github.com/your_username/ML-Algorithms-In-Depth.git`
+    `https://github.com/I-AdityaGoyal/ML_Algorithms-In_Depth.git`
     ```
 2. Navigate to the project directory: 
    ```bash
-   `cd ML-Algorithms-In-Depth`
+   `cd ML_Algorithms-In_Depth`
    ```
 3. Install the required dependencies: 
     ```bash
