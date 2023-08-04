@@ -14,6 +14,10 @@ Welcome to the ML Algorithms In Depth repository! This repository is dedicated t
 
 Learning these topics will help you gain a better understanding of machine learning algorithms and their applications. 💡
 
+## Viewing Code Blocks 🚧
+
+If GitHub can't render the code blocks properly, you can open it in `Incognito Tab`. Alternatively, you can download the  file and open it in your local Jupyter Notebook environment.
+
 ## How to Contribute 🤝
 
 Contributions to this repository are welcome! If you would like to contribute an in-depth explanation of a machine learning algorithm or improve an existing one, follow these steps:
